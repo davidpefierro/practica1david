@@ -4,6 +4,8 @@
 
 En esta práctica estamos trabajando con *Git*, *GitHub* y el lenguaje `Markdown`.
 
+### Modificación desde main
+
 ---
 
 ## Comandos Git utilizados
